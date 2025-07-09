@@ -1,0 +1,11 @@
+[book]
+authors = ["AIHI Contributors"]
+language = "en"
+multilingual = false
+src = "src"
+title = "AIHI Monorepo Ops"
+
+[output.html]
+site-url = "/monorepo-ops/"
+git-repository-url = "https://github.com/ethereum-AIHI/AIHI/tree/develop/ops/book"
+edit-url-template = "https://github.com/ethereum-AIHI/AIHI/tree/develop/ops/book/{path}"

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software in your work, please cite it using the following metadata
+title: The AIHI Monorepo
+authors:
+- name: The AIHI Collective
+version: 1.0.0
+year: 2020
+url: https://github.com/ethereum-AIHI/AIHI
+repository: https://github.com/ethereum-AIHI/AIHI
+license: MIT
